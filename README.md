@@ -6,7 +6,7 @@ Para ejecutar este proyecto, es necesario tener los siguientes programas instala
 
 * Python 3.x
 * Biblioteca Tkinter
-  En caso de no contar con tkinter, se puede instalar usando: 
+En caso de no contar con tkinter, se puede instalar usando: 
   ```python
   pip install python-tk
   ```
