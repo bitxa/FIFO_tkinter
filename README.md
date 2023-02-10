@@ -6,13 +6,14 @@ Para ejecutar este proyecto, es necesario tener los siguientes programas instala
 
 * Python 3.x
 * Biblioteca Tkinter
+
 En caso de no contar con tkinter, se puede instalar usando: 
   ```python
-  pip install python-tk
+  $ pip install python-tk
   ```
   O
   ```python
-  pip install tk
+  $ pip install tk
   ```
   
 ## Ejecución del Proyecto
@@ -29,6 +30,6 @@ $ cd FIFO_tkinter
 ```
 Ejecute el archivo run.py:
 ```python
-$ python main.py
+$ py run.py
 ```
 Aparecerá una ventana GUI, permitiéndole agregar procesos a la cola.
